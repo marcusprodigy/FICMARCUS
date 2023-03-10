@@ -1,0 +1,10 @@
+const pincel = {
+	cor:'azul',
+	tipodeponta: 1,
+	possuitinta:true
+	fabricante: 'piloto'
+}
+const caixa = {
+	quantidade: 12,
+	items: [pincel,pincel,pincel]
+}
